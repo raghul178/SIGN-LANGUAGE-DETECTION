@@ -97,7 +97,7 @@ SIGN LANGUAGE DETECTION/
 │
 └── README.md
 ```
-
+NOTE:the audio and data folders are not added to the repository as to support the creators viability.
 ---
 
 ## 📥 Data Collection (`collect_data.py`)
