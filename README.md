@@ -232,7 +232,7 @@ pip install playsound==1.2.2 pillow
 
 This project was developed collaboratively by a **6-member team** during a hackathon. Contributions, suggestions, and improvements are welcome.
 Member-1:RAGHUL P
-Member-2:Pradeepkandhan P K
+Member-2:Pradeep Kandhan P K
 Member-3:Pranav T
 Member-4:Praveen Raj E
 Member-5:Nithyasri B K
